@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Sorts+Mill+Goudy&display=swap');
+
+body {
+  background-color: #f4ece2;
+  color: #2b2118;
+  font-family: 'Sorts Mill Goudy', 'Georgia', serif;
+  line-height: 1.8;
+  margin: 0;
+  padding: 20px;
+}
+
+.archive-container {
+  background-color: #fcf9f2;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 30px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  border: 1px solid #d4c4b7;
+}
+
+h1 {
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  color: #4a3018;
+  border-bottom: 2px solid #8c7b65;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-family: 'Cinzel', serif;
+  color: #593b22;
+  border-bottom: 1px dashed #b8a99a;
+  padding-bottom: 5px;
+}
+
