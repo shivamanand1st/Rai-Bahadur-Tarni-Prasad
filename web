@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Navkar Bakhari Heritage | Rai Bahadur Tarni Prasad</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="hero-section">
+        <div class="hero-content">
+            <h1>The Legacy of Rai Bahadur Tarni Prasad</h1>
+            <p>Preserving the history of the Navkar Bakhari Kayastha Parivar</p>
+        </div>
+    </header>
+
+    <nav class="navigation">
+        <ul>
+            <li><a href="#about">The Patriarch</a></li>
+            <li><a href="#lineage">Lineage</a></li>
+            <li><a href="#estates">Zamindari Estates</a></li>
+            <li><a href="#archives">Historical Archives</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <section id="about">
+            <h2>Rai Bahadur Tarni Prasad (1840s - 1913)</h2>
+            <p>Son of Munshi Girdhari Lal, Tarni Prasad hailed from Rohini, Deoghar. A Pleader of higher grade at the Bhagalpur bar (enrolled 1867), he was awarded the title of Rai Bahadur on June 3, 1899, for his outstanding public service, later serving in the Bengal Legislative Council.</p>
+        </section>
+        
+        <hr>
+
+        <section id="estates">
+            <h2>The Estates & Zamindari</h2>
+            <p>The family held extensive <em>mokrari istmrari</em> rights across the Bhagalpur division. Key properties included:</p>
+            <div class="estate-grid">
+                <div class="estate-card">
+                    <h3>Village Matia</h3>
+                    <p>Thana No. 168 | Tauzi No. 445</p>
+                    <p>Fell into the share of Rai Saheb Bhuvaneshwar Prasad. Home to the historic pucca house built by Tarni Prasad.</p>
+                </div>
+                <div class="estate-card">
+                    <h3>Village Anantpur</h3>
+                    <p>Approx. 6500 acres</p>
+                    <p>Fell into the share of Babu Kameshwar Prasad. Featured a major estate residence.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Navkar Bakhari Digital Archive. Documented for future generations.</p>
+    </footer>
+</body>
+</html>
